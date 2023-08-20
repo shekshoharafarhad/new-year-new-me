@@ -162,3 +162,19 @@ line-height: 26px;
 width: 175px;
 height: 46px;
 }
+.footer-email{
+  color:#F3F3F3;
+  font-size: 18px;
+  font-weight: 400;
+  border-radius: 8px;
+  border: 1px solid #FFF;
+  padding: 10px 130px 10px 15px;
+}
+.footer-btn{
+  width: 170.106px;
+  height: 64px;
+  color: #F15B22;
+  font-size: 20px;
+  font-weight: 600;
+  
+}
